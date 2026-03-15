@@ -18,6 +18,8 @@ public class constructorchainingintro extends parent{
 void main(String[] args) {
 
     constructorchainingintro cc = new constructorchainingintro();
+    constructorchainingintro cd = new constructorchainingintro(100,"Ashish");
+
 }
 
 
